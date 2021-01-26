@@ -426,6 +426,8 @@ li {
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: bold;
+  padding-top: 60px;
+  padding-bottom: 20px;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
