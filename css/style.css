@@ -124,7 +124,7 @@ li {
 }
 .project-item {
   display: block;
-  padding: 40px 24px;
+  padding: 20px 24px;
 }
 .pises-color {
   color: #212121;
@@ -446,7 +446,6 @@ li {
   line-height: 1.71;
   letter-spacing: 0.03em;
   margin-top: 20px;
-  padding-bottom: 9px;
 }
 .footer-nav-item-maps {
   font-family: "Roboto", sans-serif;
@@ -455,7 +454,6 @@ li {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-  padding-bottom: 9px;
   margin-top: 20px;
   color: #ffffff;
 }
