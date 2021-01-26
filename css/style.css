@@ -379,7 +379,7 @@ li {
 .pipl {
   display: block;
   align-items: center;
-  padding-top: 10px;
+  padding-top: 30px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
@@ -393,6 +393,7 @@ li {
   display: block;
   align-items: center;
   padding-top: 10px;
+  padding-bottom: 30px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
